@@ -48,3 +48,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+<!-- alternate to View in native,  -->
+
+npm install react-native-safe-area-context
+npx expo start -c : to start server with clear cache.
+configured eslint from expo webiste.
