@@ -1,8 +1,11 @@
-import { Redirect } from "expo-router";
 import { Text, View } from "react-native";
 
 const Home = () => {
-  return <Redirect href="/(auth)/welcome" />;
+  return (
+    <View>
+      <Text>Home Screen</Text>
+    </View>
+  );
 };
 
 export default Home;

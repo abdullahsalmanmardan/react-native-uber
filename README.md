@@ -54,3 +54,5 @@ Join our community of developers creating universal apps.
 npm install react-native-safe-area-context
 npx expo start -c : to start server with clear cache.
 configured eslint from expo webiste.
+<!-- this will show sliding componets -->
+npm install react-native-swiper
